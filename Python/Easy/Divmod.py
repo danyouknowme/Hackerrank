@@ -1,0 +1,5 @@
+a = int(input())
+b = int(input())
+x = divmod(a, b)
+print(*[x[i] for i in range(len(x))], sep='\n')
+print(x)
