@@ -1,0 +1,6 @@
+s1 = int(input())
+student1 = set(map(int, input().split()))
+s2 = int(input())
+student2 = set(map(int, input().split()))
+sym_diff_set = student1.symmetric_difference(student2)
+print(len(sym_diff_set))
