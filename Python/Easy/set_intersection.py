@@ -1,0 +1,6 @@
+s1 = int(input())
+student1 = set(map(int, input().split()))
+s2 = int(input())
+student2 = set(map(int, input().split()))
+intersec_set = student1.intersection(student2)
+print(len(intersec_set))
