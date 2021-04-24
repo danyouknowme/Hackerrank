@@ -9,9 +9,15 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
 
-#### This repository represents coding problems in CodeChef that I completed with Python and C++. I hope it should help you guys more or less.
+####        This repository represents coding problems in CodeChef that I completed with Python and C++. I hope it should help you guys more or less.<br />
 
 ## Let's Start to Coding.
   [HackerRank](https://www.hackerrank.com)
   
- 
+The action of every agent <br />
+  into the world <br />
+starts <br />
+  from their physical selves. <br />
+
+
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
