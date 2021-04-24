@@ -5,3 +5,6 @@
 </p>
 
 ## Complete the problem solutions of coding problem in HackerRank by multiple languages.
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
