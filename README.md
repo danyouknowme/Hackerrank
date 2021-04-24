@@ -13,12 +13,9 @@
 
 #### This repository represents coding problems in CodeChef that I completed with Python and C++. I hope it should help you guys more or less.
 
-<p>&nbsp;</p>
-
 ## Let's Start to Coding.
   [HackerRank](https://www.hackerrank.com)
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
